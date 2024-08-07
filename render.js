@@ -1,3 +1,3 @@
 <script>
-document.getElementById("Renderer").innerHTML = "My First JavaScript";
+document.write("My First JavaScript");
 </script>
